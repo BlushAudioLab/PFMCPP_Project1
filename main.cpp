@@ -141,6 +141,15 @@ plant.photosynthesise();
 //  action 3: The plant creates pollen
 plant.createPollen();
 
+// 11)
+// Noun: Satellite Dish
+// action 1: The satellite dish receives a signal
+satelliteDish.receiveSignal();
+// action 2: The satellite dish decodes a signal
+satelliteDish.decodeSignal();
+// action 3: The satellite dish rotates counterclockwise
+satelliteDish.rotateCounterClockwise();
+
 #endif
 
 /*
