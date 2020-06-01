@@ -52,86 +52,103 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
+//  Noun: Human
+//  action 1: the human eats
+human.eat();
+//  action 2: the human drinks
+human.drink();
+//  action 3: the human sleeps
+human.sleep(); 
 
-//  action 2:
-
-//  action 3:
- 
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: Bird
+//  action 1: The bird flies
+bird.fly();
+//  action 2: The bird eats seeds
+bird.eatSeeds();
+//  action 3: The bird lays an egg
+bird.layAnEgg();
  
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: Car
+//  action 1: The car moves forwards
+car.moveForwards();
+//  action 2: The car moves backwards
+car.moveBackwards();
+//  action 3: The car turns left
+car.turnLeft();
  
 //  4)
-//  Noun:
-//  action 1:
+//  Noun: Dog
+//  action 1: The dog barks
+dog.bark();
+//  action 2: The dog wags its tail
+dog.wagTail();
+//  action 3: The dog sits
+dog.sit(); 
 
-//  action 2:
-
-//  action 3:
- 
 //  5)
-//  Noun:
-//  action 1:
+//  Noun: Bee
+//  action 1: The bee buzzes
+bee.buzz();
+//  action 2: The bee collects pollen
+bee.collectPollen();
+//  action 3: The bee returns to the hive
+bee.returnToHive();
 
-//  action 2:
-
-//  action 3:
- 
 //  6)
-//  Noun:
-//  action 1:
+//  Noun: Cat
+//  action 1: The cat meows
+cat.meow();
+//  action 2: The cat runs
+cat.run();
+//  action 3: The cat jumps
+cat.jump();
 
-//  action 2:
-
-//  action 3:
- 
 //  7)
-//  Noun:
-//  action 1:
+//  Noun: Oven
+//  action 1: The oven heats up
+oven.heatUp();
+//  action 2: The oven cools down
+oven.coolDown();
+//  action 3: The oven cooks pasta bake
+oven.cookPastaBake();
 
-//  action 2:
-
-//  action 3:
- 
 //  8)
-//  Noun:
-//  action 1:
+//  Noun: Microphone
+//  action 1: The microphone picks up sound
+microphone.pickUpSound();
+//  action 2: The microphone converts sound to signal
+microphone.convertSoundToSignal();
+//  action 3: The microphone changes polar pattern
+microphone.changePolarPattern();
 
-//  action 2:
-
-//  action 3:
- 
 //  9)
-//  Noun:
-//  action 1:
+//  Noun: Boiler
+//  action 1: The boiler heats up the water
+boiler.heatUpWater();
+//  action 2: The boiler uses gas
+boiler.useGas();
+//  action 3: The boiler leaks
+boiler.leak();
 
-//  action 2:
-
-//  action 3:
- 
 //  10)
-//  Noun:
-//  action 1:
+//  Noun: Plant
+//  action 1: The plant grows
+plant.grow();
+//  action 2: The plant photosynthesises 
+plant.photosynthesise();
+//  action 3: The plant creates pollen
+plant.createPollen();
 
-//  action 2:
-
-//  action 3:
- 
-
+// 11)
+// Noun: Satellite Dish
+// action 1: The satellite dish receives a signal
+satelliteDish.receiveSignal();
+// action 2: The satellite dish decodes a signal
+satelliteDish.decodeSignal();
+// action 3: The satellite dish rotates counterclockwise
+satelliteDish.rotateCounterClockwise();
 
 #endif
 
